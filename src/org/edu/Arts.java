@@ -34,6 +34,9 @@ public class Arts extends Education {
 		System.out.println("prakash");
 		System.out.println("sivaguru");
 		System.out.println("sivaji");
+		System.out.println("phill");
+		System.out.println("kill");
+		System.out.println("oll");
 		
 		
 	}
