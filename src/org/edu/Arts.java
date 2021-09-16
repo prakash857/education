@@ -31,6 +31,9 @@ public class Arts extends Education {
 		a.bSc();
 		a.ug("CSE");
 		a.pg("Thermal");
+		System.out.println("phill");
+		System.out.println("kill");
+		System.out.println("oll");
 		
 		
 	}
